@@ -1,0 +1,11 @@
+---
+title: "About Me"
+---
+  
+I am a statistical consultant at the Statistical Consulting Centre in the 
+Department of Statistics at the University of Auckland. I am an avid **R** 
+programmer and data analyst. This is my personal website where I am able to 
+keep all of my projects in one accessible repository. Most of these projects 
+are the product of my spare time.
+
+Check out my [CV](blake_seers_cv).

@@ -1,0 +1,40 @@
+name: "blasee.github.io"
+navbar:
+  title: "Blake Seers"
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+    - text: " About"
+      icon: fa-info
+      href: about.html
+    - text: " Projects"
+      icon: fa-line-chart
+      menu:
+        - text: "R Packages"
+        - text: "clifro"
+          href: https://github.com/ropensci/clifro#enhancing-the-national-climate-database-with-clifro
+        - text: "fetchR"
+          href: https://github.com/blasee/fetchR#wind-fetch
+        - text: "---------"
+        - text: "Web Applications"
+        - text: "fetchR App"
+          href: http://windfetch.cer.auckland.ac.nz/
+  right:
+    - icon: fa-user
+      href: https://www.stat.auckland.ac.nz/people/bsee002
+    - icon: fa-institution
+      href: https://www.stat.auckland.ac.nz/en/about/statistical-consulting-centre.html
+    - icon: fa-github
+      href: https://github.com/blasee
+    - icon: fa-linkedin
+      href: https://www.linkedin.com/in/blake-seers-1478b7102/
+    - icon: ion-android-mail
+      href: mailto:blake@seers.me
+output:
+  html_document:
+    theme: readable
+    highlight: textmate
+    include:
+      after_body: footer.html
+    css: styles.css
