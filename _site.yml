@@ -31,7 +31,7 @@ navbar:
     - icon: fa-linkedin
       href: https://www.linkedin.com/in/blake-seers-1478b7102/
     - icon: ion-android-mail
-      href: mailto:blake@seers.me
+      href: mailto:blake.seers@gmail.com
 output:
   html_document:
     theme: readable
