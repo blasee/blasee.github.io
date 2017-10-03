@@ -1,5 +1,5 @@
 ---
-title: "Hi I'm Blake"
+title: "Wecome to my Personal Projects Page"
 ---
 
-Welcome to my personal website.
+

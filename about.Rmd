@@ -8,4 +8,4 @@ programmer and data analyst. This is my personal website where I am able to
 keep all of my projects in one accessible repository. Most of these projects 
 are the product of my spare time.
 
-Check out my [CV](https://github.com/blasee/blasee.github.io/raw/master/blake_seers_cv.pdf).
+Check out my [CV](https://raw.githubusercontent.com/blasee/blasee.github.io/master/blake_seers_cv.pdf).
